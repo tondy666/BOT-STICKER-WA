@@ -12,7 +12,7 @@
     "@open-wa/wa-automate": "^1.9.61",
     "fs-extra": "^9.0.0",
     "mime-types": "^2.1.27",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "puppeteer": "^3.2.0"
   }
 }
